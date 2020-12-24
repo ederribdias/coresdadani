@@ -35,7 +35,7 @@ form .form-group {
         left: 0;
         width: 100vw;
         height: 100vh;
-        background-color: green;
+        background-color: purple;
         z-index: 10;
         display: flex;
         justify-content: center;
